@@ -6,3 +6,7 @@
  * Time: 4:58
  */
 
+$string = 'fasfasfasfa';
+$res = strpos($string, 's');
+var_dump($res);
+

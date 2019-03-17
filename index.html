@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="./index.php" method="post">
+        <input type="checkbox" id="select-all" title="全选"> 全选
+        <input type="checkbox" name="select[]" title="选项1">选项1
+        <input type="checkbox" name="select[]" title="选项2">选项2
+    </form>
+</body>
+<script src="./node_modules/jquery/dist/jquery.min.js">
+    $(function(){
+        $('#select-all').click(function(){
+            console.log('ceshi');
+            $(':checkbox[name="select[]"]').prop('checked', $(this).prop('checked'));
+        });
+    });
+</script>
+</html>

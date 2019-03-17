@@ -1,25 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9fb1015-2944-4405-b002-9fbb83837e94" name="Default Changelist" comment="" />
+    <list default="true" id="a9fb1015-2944-4405-b002-9fbb83837e94" name="Default Changelist" comment="日常练习">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoLoad.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileProcess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/CHANGELOG.mdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/README.mdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/doc/extending.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/doc/sockets.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/AmqpHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/ChromePHPHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/CubeHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/GelfHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/GroupHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/MongoDBHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/NullHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SocketHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/SyslogHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Handler/TestHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Logger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/ChromePHPFormatterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/GelfMessageFormatterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/JsonFormatterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/LineFormatterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/NormalizerFormatterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Formatter/WildfireFormatterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Functional/Handler/FirePHPHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/AbstractHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/AbstractProcessingHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/AmqpExchangeMock.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/AmqpHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/BufferHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/ChromePHPHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/FingersCrossedHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/FirePHPHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/Fixtures/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/GelfMocks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/GroupHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/MailHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/MongoDBHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/NullHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/RotatingFileHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/SocketHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/StreamHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/SyslogHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Handler/TestHandlerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/LoggerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Processor/IntrospectionProcessorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Processor/MemoryPeakUsageProcessorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Processor/MemoryUsageProcessorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/Processor/WebProcessorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/Monolog/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/monolog/monolog/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hotBeer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hotBeer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/array_test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hotBeer" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/array_test.php">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="112">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileProcess.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -28,19 +294,32 @@
         <option value="$PROJECT_DIR$/common.php" />
         <option value="$PROJECT_DIR$/connectMysql.php" />
         <option value="$PROJECT_DIR$/net.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/array_test.php" />
+        <option value="$PROJECT_DIR$/redis.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/AutoLoad.php" />
+        <option value="$PROJECT_DIR$/FileProcess.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -62,11 +341,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zerg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -101,20 +381,34 @@
       <workItem from="1550174232669" duration="190000" />
       <workItem from="1550274635148" duration="1424000" />
       <workItem from="1550317795036" duration="481000" />
-      <workItem from="1551041813550" duration="501000" />
+      <workItem from="1551041813550" duration="7716000" />
+      <workItem from="1551063733186" duration="22000" />
+      <workItem from="1551157190781" duration="1275000" />
+      <workItem from="1551225424534" duration="1129000" />
+      <workItem from="1551233787546" duration="294000" />
+      <workItem from="1552106428868" duration="281000" />
+      <workItem from="1552484470398" duration="2102000" />
+      <workItem from="1552546449900" duration="353000" />
+      <workItem from="1552758559293" duration="443000" />
+      <workItem from="1552822659259" duration="3101000" />
+      <workItem from="1552847043580" duration="286000" />
+      <workItem from="1552847385741" duration="42000" />
+      <workItem from="1552847794414" duration="94000" />
+      <workItem from="1552847990691" duration="9667000" />
+      <workItem from="1552858253396" duration="445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18177000" />
+    <option name="totallyTimeSpent" value="44926000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16018766" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989059" visible="true" weight="0.1930295" />
+      <window_info id="Structure" order="1" sideWeight="0.5010941" side_tool="true" weight="0.19034852" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010941" side_tool="true" weight="0.19034852" />
+      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -124,30 +418,108 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32794118" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="日常练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="日常练习" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dbConfig.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -158,24 +530,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/net.php">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="588">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/sales.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoLoad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="112">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array_test.php">
+    <entry file="file://$PROJECT_DIR$/FileProcess.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="168">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
