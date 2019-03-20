@@ -75,7 +75,26 @@ insert into SC values('07' , '03' , 98);
 #1. 查询" 01 "课程比" 02 "课程成绩高的学生的信息及课程分数?
 select * from (select * from sc where CId='01')as t1 INNER JOIN (select * from sc where CId='02')as t2 where t1.SId=t2.SId and t1.score > t2.score; 
 #2. 查询同时存在" 01 "课程和" 02 "课程的情况
-select * from (select * from sc where `CId` = '01') as t1 INNER JOIN (select * from sc where `CId`='02')as t2
+select * from (select * from sc where `CId` = '01') as t1 INNER JOIN (select * from sc where `CId`='02')as t2 on t1.SId = t2.SId;
+#3.  查询存在" 01 "课程但可能不存在" 02 "课程的情况(不存在时显示为 null )
+select * from (select * from sc where CId = '01') as t1 left join  (select * from sc where CId = '02') as t2 on t1.SId = t2.SId;
+#4. 查询不存在" 01 "课程但存在" 02 "课程的情况
+select * from (select * from sc where CId = '02') as t1 left join (select * from sc where CId not in('01', '02')) as t2 on t1.SId = t2.SId;
+#5. 查询平均成绩大于等于 60 分的同学的学生编号和学生姓名和平均成绩
+select * from (select SId,avg_score from (select SId,avg(score)as avg_score from  sc group by SId) as s1 where s1.avg_score>60 ) as t1 left join Student as t2 on t1.SId=t2.SId;
+#6. 查询在 SC 表存在成绩的学生信息
+select t2.* from  (select SId from SC group by SId) as t1 left join Student as t2 on t1.SId=t2.SId;
+#7 查询所有同学的学生编号、学生姓名、选课总数、所有课程的总成绩(没成绩的显示为 null )
+select * from (select SId, Sname from Student) as t1 left join (select SId,count(CId)as course_number, sum(score)as sum_score from SC group by SId)as t2 on t1.SId=t2.SId;
+#8 查有成绩的学生信息
+select t2.* from (select SId from SC group by SId)as t1 left join (select * from Student)as t2 on t1.SId=t2.SId;
+#9 查询「李」姓老师的数量
+select count(TId)as li_count from Teacher where Tname like '李%';
+#10 查询学过「张三」老师授课的同学的信息
+select * from Student where SId in (select SId from SC where CId in(select CId from Course where TId in (select TId from Teacher where Tname='张三')));
+#11 查询两门及其以上不及格课程的同学的学号，姓名及其平均成绩
+select * from Student as s1 inner join (select t2.SId,avg(t2.score)as score_avg from (select t1.SId, t1.score from (select * from SC where score < 60 ) as t1 group by t1.SId having count(t1.SId) >=2)as t2) as t3 on s1.SId=t3.SId;
+#12. 检索" 01 "课程分数小于 60，按分数降序排列的学生信息
 
 
 
