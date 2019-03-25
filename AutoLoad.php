@@ -5,6 +5,7 @@
  * Date: 2019/3/18
  * Time: 5:10
  */
-spl_autoload_register(function($className){
-    include strval($className);
+declare(strict_types = 1); // 开启强类型模式
+spl_autoload_register(function(string $className){
+    include $className;
 });
